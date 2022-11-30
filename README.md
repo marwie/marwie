@@ -7,7 +7,3 @@
 Oh and also here is [~~my twitter handle~~](https://twitter.com/marcel_wiessler) [my mastodon handle](https://mastodon.gamedev.place/@marwi) 🐘
 
 Pronouns: He/Him
-
----
-
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/marcel_wiessler.svg?style=social&label=follow%20on%20twitter)](https://twitter.com/marcel_wiessler)
