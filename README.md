@@ -4,6 +4,6 @@
 🛡️ [github.com/needle-mirror](https://github.com/needle-mirror) - Mirrored Versions of packages available in UPM, without any changes.  
 *We run a couple of bots and services that update the github repositories whenever Unity publishes a new package version. There's also [this twitter bot](https://twitter.com/Needle_Mirror) that posts package releases but also about Editor releases*
 
-Oh and also here is [~~my twitter handle~~](https://twitter.com/marcel_wiessler) [my mastodon handle](https://mastodon.gamedev.place/@marwi) 🐘
+Oh and also here is [my mastodon handle](https://mastodon.gamedev.place/@marwi) 🐘
 
 Pronouns: He/Him
